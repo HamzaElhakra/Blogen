@@ -1,0 +1,17 @@
+body {
+    overflow-x: hidden;
+}
+#header .logout {
+    text-decoration: none;
+}
+#dashboard i,
+#posts i,
+#categories i,
+#users i,
+#logout i {
+    font-size: 35px;
+}
+
+#footer p:first-child{
+    border-right: 1px solid #007bff;
+}
